@@ -1,0 +1,1 @@
+wipedir "$GHOME"
